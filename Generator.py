@@ -28,7 +28,7 @@ def PLotNumbers():
         coordinates[i] = (CurrentPos)
         t.left(rotate)
 
-
+# I have changed some stuff for the Drawing Branch
 def ConnectNumbers():
     global coordinates
     for i in range(len(coordinates)):
